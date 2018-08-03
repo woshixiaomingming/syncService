@@ -18,6 +18,7 @@ public abstract class AsynCallBack implements Runnable,Serializable {
 	public final void setInokeResult(Object object) {
 		// set method inoke result
 		this.methodResult = object;
+		//ccc
 	}
 
 	/**
